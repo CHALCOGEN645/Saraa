@@ -66,7 +66,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=f"{played} {progress_bar} {dur}",
-                url="https://t.me/RED_FM_MUSIC_BOT?startgroup=true"
+                url="https://t.me/ZAARAMUSICBOT?startgroup=true"
             )
         ],
         [
