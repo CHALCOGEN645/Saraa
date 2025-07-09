@@ -15,7 +15,7 @@ HELP_1 = """<b><u>ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_2 = """
@@ -27,7 +27,7 @@ HELP_2 = """
 /unauth [ᴜsᴇʀɴᴀᴍᴇ/ᴜsᴇʀ_ɪᴅ] : ʀᴇᴍᴏᴠᴇ ᴀ ᴀᴜᴛʜ ᴜsᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ.
 /authusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴜᴛʜ ᴜsᴇʀs ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_3 = """
@@ -44,7 +44,7 @@ HELP_3 = """
 
 <b>ᴇxᴀᴍᴩʟᴇ:</b> <code>/broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ</code>
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_4 = """<u><b>ᴄʜᴀᴛ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
@@ -55,7 +55,7 @@ HELP_4 = """<u><b>ᴄʜᴀᴛ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u
 /whitelistchat [ᴄʜᴀᴛ ɪᴅ] : ᴡʜɪᴛᴇʟɪsᴛ ᴛʜᴇ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛ.
 /blacklistedchat : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴄʜᴀᴛs.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_5 = """
@@ -67,7 +67,7 @@ sᴛᴀʀᴛs ɪɢɴᴏʀɪɴɢ ᴛʜᴇ ʙʟᴀᴄᴋʟɪsᴛᴇᴅ ᴜsᴇʀ, 
 /unblock [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ] : ᴜɴʙʟᴏᴄᴋs ᴛʜᴇ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀ.
 /blockedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_6 = """
@@ -81,7 +81,7 @@ HELP_6 = """
 
 /channelplay [ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ɪᴅ] ᴏʀ [ᴅɪsᴀʙʟᴇ] : ᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀ ɢʀᴏᴜᴩ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʀᴀᴄᴋs ʙʏ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴄᴏᴍᴍᴀɴᴅs sᴇɴᴛ ɪɴ ɢʀᴏᴜᴩ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_7 = """
@@ -91,7 +91,7 @@ HELP_7 = """
 /ungban [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴜsᴇʀ] : ɢʟᴏʙᴀʟʟʏ ᴜɴʙᴀɴs ᴛʜᴇ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ᴜsᴇʀ.
 /gbannedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ᴜsᴇʀs.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_8 = """
@@ -102,7 +102,7 @@ HELP_8 = """
 /loop [enable/disable] : ᴇɴᴀʙʟᴇs/ᴅɪsᴀʙʟᴇs ʟᴏᴏᴘ ғᴏʀ ᴛʜᴇ ᴏɴɢᴏɪɴɢ sᴛʀᴇᴀᴍ
 /loop [1, 2, 3, ...] : ᴇɴᴀʙʟᴇs ᴛʜᴇ ʟᴏᴏᴘ ғᴏʀ ᴛʜᴇ ɢɪᴠᴇɴ ᴠᴀʟᴜᴇ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_9 = """
@@ -114,7 +114,7 @@ HELP_9 = """
 
 /maintenance [ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ] : ᴇɴᴀʙʟᴇ ᴏʀ ᴅɪsᴀʙʟᴇ ᴛʜᴇ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ᴍᴏᴅᴇ ᴏғ ʏᴏᴜʀ ʙᴏᴛ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_10 = """
@@ -127,7 +127,7 @@ HELP_10 = """
 
 /stats : sʜᴏᴡs ᴛʜᴇ ᴏᴠᴇʀᴀʟʟ sᴛᴀᴛs ᴏғ ᴛʜᴇ ʙᴏᴛ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_11 = """
@@ -140,7 +140,7 @@ HELP_11 = """
 
 /playforce ᴏʀ /vplayforce : sᴛᴏᴩs ᴛʜᴇ ᴏɴɢᴏɪɴɢ sᴛʀᴇᴀᴍ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʜᴇ ʀᴇǫᴜᴇsᴛᴇᴅ ᴛʀᴀᴄᴋ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_12 = """
@@ -149,7 +149,7 @@ HELP_12 = """
 /shuffle : sʜᴜғғʟᴇ's ᴛʜᴇ ᴏ̨ᴜᴇᴜᴇ.
 /queue : sʜᴏᴡs ᴛʜᴇ sʜᴜғғʟᴇᴅ ᴏ̨ᴜᴇᴜᴇ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_13 = """
@@ -158,7 +158,7 @@ HELP_13 = """
 /seek [ᴅᴜʀᴀᴛɪᴏɴ ɪɴ sᴇᴄᴏɴᴅs] : sᴇᴇᴋ ᴛʜᴇ sᴛʀᴇᴀᴍ ᴛᴏ ᴛʜᴇ ɢɪᴠᴇɴ ᴅᴜʀᴀᴛɪᴏɴ.
 /seekback [ᴅᴜʀᴀᴛɪᴏɴ ɪɴ sᴇᴄᴏɴᴅs] : ʙᴀᴄᴋᴡᴀʀᴅ sᴇᴇᴋ ᴛʜᴇ sᴛʀᴇᴀᴍ ᴛᴏ ᴛʜᴇ ᴛʜᴇ ɢɪᴠᴇɴ ᴅᴜʀᴀᴛɪᴏɴ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_14 = """
@@ -166,7 +166,7 @@ HELP_14 = """
 
 /song [sᴏɴɢ ɴᴀᴍᴇ/ʏᴛ ᴜʀʟ] : ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴʏ ᴛʀᴀᴄᴋ ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇ ɪɴ ᴍᴘ3 ᴏʀ ᴍᴘ4 ғᴏʀᴍᴀᴛs.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_15 = """
@@ -177,7 +177,7 @@ HELP_15 = """
 /speed or /playback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ɢʀᴏᴜᴘ.
 /cspeed or /cplayback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ᴄʜᴀɴɴᴇʟ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
 
 HELP_16 = """
@@ -185,5 +185,5 @@ HELP_16 = """
 
 /Privacy : Display the privacy statement for Sarcastic Bot 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [ꜱɪʟᴇɴᴛʜʀᴀx](https://t.me/Silenthrax) **
+❖ ϻᴧᴅє ʙʏ  ➠ [zααяα иєтωσяк](https://t.me/zaara_network) **
 """
