@@ -6,7 +6,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/CHALCOGEN645/count.svg" />
 </p>
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋+𝐌𝐔𝐒𝐈𝐂+𝐁𝐎𝐓🖤+🥀"></b></h1>
-  <a href="https://t.me/fuck_of_bitches"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/zaara_support" alt="Support Channel"></a>
+  <a href="https://t.me/international_besties_chatting"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/zaara_support" alt="Support Channel"></a>
   <a href="https://t.me/zaara_support"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
   <a href="https://t.me/fuck_of_bitches"><img src="https://img.shields.io/badge/Owner-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Owner"></a>
 </p>
