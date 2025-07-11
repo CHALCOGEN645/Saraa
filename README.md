@@ -4,7 +4,7 @@
 <p align="center">
     <!-- 👁 Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chalcogen645&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=CHALCOGEN645&style=flat-square" />
 </p>
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋+𝐌𝐔𝐒𝐈𝐂+𝐁𝐎𝐓🖤+🥀"></b></h1>
   <a href="https://t.me/zaara_support"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/zaara_support" alt="Support Channel"></a>
