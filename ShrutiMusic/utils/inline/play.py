@@ -69,11 +69,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 url="https://t.me/ZAARAMUSICBOT?startgroup=true"
             )
         ],
-        [
-            InlineKeyboardButton(text="ѕυρρσят", url="https://t.me/zaara_support"),
-            InlineKeyboardButton(text="иєтωσяк", url="https://t.me/zaara_network"),
-        ],
-    ]
+        
 
 # Stream Buttons without Timer
 def stream_markup(_, chat_id):
