@@ -142,9 +142,9 @@ def stream_markup_timer(_, chat_id, played, dur):
 
         [
 
-            InlineKeyboardButton(text="ѕυρρσят", url="https://t.me/zaara_support"),
+            #InlineKeyboardButton(text="ѕυρρσят", url="https://t.me/zaara_support"),
 
-            InlineKeyboardButton(text="иєтωσяк", url="https://t.me/zaara_network"),
+            #InlineKeyboardButton(text="иєтωσяк", url="https://t.me/zaara_network"),
 
         ],
 
