@@ -17,7 +17,7 @@ API_ID = int(os.getenv("API_ID"))
 API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 OWNER_ID = int(os.getenv("OWNER_ID", None))
-OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Fuck_of_bitches")
+OWNER_USERNAME = os.getenv("OWNER_USERNAME", "iamchalco")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛠️ Database & Deployment Configs
@@ -40,7 +40,7 @@ GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 # 🔗 Support Links
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/NETWORK")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/zaara_NETWORK")
 SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ZAARABOTS")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
@@ -85,7 +85,7 @@ AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", True))
 # 🖼️ Image URLs (Can be customized)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/t4cbgy.jpg")
+START_IMG_URL = os.getenv("START_IMG_URL", "https://te.legra.ph/file/5fd13f2cc0d03bce9f7f2.jpg")
 PING_IMG_URL = os.getenv("PING_IMG_URL", "https://telegra.ph/file/87f680aead03443f291b0.jpg")
 PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
