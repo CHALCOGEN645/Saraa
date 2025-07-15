@@ -14,12 +14,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "29448785",
+      "value": "14050586",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "599574f6aff0a09ebb76305b58e7e9c2",
+      "value": "42a60d9c657b106370c79bb0a8ac560c",
       "required": true
     },
     "BOT_TOKEN": {
@@ -29,22 +29,22 @@
     },
     "MONGO_DB_URI": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
-      "value": "mongodb+srv://pusers:nycreation@nycreation.pd4klp1.mongodb.net/?retryWrites=true&w=majority&appName=NYCREATION",
+      "value": "mongodb+srv://chalcogen:dumb980@cluster0.u25jq25.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.",
-      "value": "7574330905",
+      "value": "7943244871",
       "required": true
     },
     "OWNER_USERNAME": {
       "description": "The username of the owner (without @)",
-      "value": "WTF_WhyMeeh",
+      "value": "iamchalco",
       "required": true
     },
     "BOT_USERNAME": {
       "description": "The username of your bot (without @)",
-      "value": "ShrutixMusicBot",
+      "value": "zaaramusicbot",
       "required": true
     },
     "UPSTREAM_REPO": {
@@ -79,12 +79,12 @@
     },
     "SUPPORT_GROUP": {
       "description": "Your support group username (without @)",
-      "value": "https://t.me/ShrutiBotsupport",
+      "value": "https://t.me/zaarabots",
       "required": false
     },
     "SUPPORT_CHANNEL": {
       "description": "Your support channel username (without @)",
-      "value": "https://t.me/SILENTHREX",
+      "value": "https://t.me/zaara_network",
       "required": false
     },
     "COOKIE_URL": {
