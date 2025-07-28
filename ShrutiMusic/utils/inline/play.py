@@ -134,7 +134,7 @@ def stream_markup_timer(_, chat_id, played, dur):
 
                 text=f"{played} {progress_bar} {dur}",
 
-                url="https://t.me/ZAARAMUSICBOT?startgroup=true"
+                url="https://t.me/ZARAAMUSICBOT?startgroup=true"
 
             )
 
