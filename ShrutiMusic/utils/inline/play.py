@@ -142,7 +142,8 @@ def stream_markup_timer(_, chat_id, played, dur):
 
         [
 
-            InlineKeyboardButton(text="Add me baby", url="http://t.me/zaaramusicbot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users+ban_user"),
+            InlineKeyboardButton(text="Add me baby", url="http://t.me/zaaramusicbot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users+ban_user")
+        ],
 
             #InlineKeyboardButton(text="иєтωσяк", url="https://t.me/zaara_network"),
 
