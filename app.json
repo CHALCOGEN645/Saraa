@@ -34,12 +34,12 @@
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.",
-      "value": "7943244871",
+      "value": "8018003396",
       "required": true
     },
     "OWNER_USERNAME": {
       "description": "The username of the owner (without @)",
-      "value": "iamchalco",
+      "value": "c7gen",
       "required": true
     },
     "BOT_USERNAME": {
@@ -79,12 +79,12 @@
     },
     "SUPPORT_GROUP": {
       "description": "Your support group username (without @)",
-      "value": "https://t.me/zaarabots",
+      "value": "https://t.me/nexiasupport",
       "required": false
     },
     "SUPPORT_CHANNEL": {
       "description": "Your support channel username (without @)",
-      "value": "https://t.me/+ks5miJYFJWI3NDI1",
+      "value": "https://t.me/nexiaupdates",
       "required": false
     },
     "COOKIE_URL": {
