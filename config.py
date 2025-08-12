@@ -85,9 +85,9 @@ AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 # 🖼️ Image URLs (Can be customized)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/ibenl3.jpg")
+START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/zvfbsw.jpg")
 PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/mggf6d.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/ibenl3.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/zvfbsw.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/mggf6d.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/ibenl3.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/mggf6d.jpg"
@@ -138,6 +138,7 @@ if SUPPORT_GROUP:
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #     ✅ CONFIG LOADED SUCCESSFULLY | Designed By @c7gen
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 
 
