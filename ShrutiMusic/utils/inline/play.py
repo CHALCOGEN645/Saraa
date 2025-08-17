@@ -130,7 +130,7 @@ def stream_markup_timer(_, chat_id, played, dur):
 
                 text=f"{played} {progress_bar} {dur}",
 
-                url="https://t.me/nexiamusicbot?startgroup=true"
+                url="https://t.me/carolinexmusicbot?startgroup=true"
 
             )
 
@@ -138,9 +138,9 @@ def stream_markup_timer(_, chat_id, played, dur):
 
         [
 
-            #InlineKeyboardButton(text="ѕυρρσят", url="https://t.me/zaara_support"),
+            InlineKeyboardButton(text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓", url="https://t.me/nexiasupport"),
 
-            #InlineKeyboardButton(text="иєтωσяк", url="https://t.me/zaara_network"),
+            InlineKeyboardButton(text="𝐍𝐄𝐗𝐈𝐀", url="https://t.me/NEXIAMUSICBOT"),
 
         ],
 
@@ -251,5 +251,6 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
 # Credit
 
 # Modified with love by Snehil Aniket @iamchalco
+
 
 
