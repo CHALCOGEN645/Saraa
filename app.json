@@ -44,12 +44,12 @@
     },
     "BOT_USERNAME": {
       "description": "The username of your bot (without @)",
-      "value": "zaraamusicbot",
+      "value": "carolinexmusicbot",
       "required": true
     },
     "UPSTREAM_REPO": {
       "description": "URL of your GitHub repository",
-      "value": "https://github.com/Chalcogen645/Shruti",
+      "value": "https://github.com/Chalcogen645/saraa",
       "required": false
     },
     "STRING_SESSION": {
