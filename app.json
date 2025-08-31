@@ -44,7 +44,7 @@
     },
     "BOT_USERNAME": {
       "description": "The username of your bot (without @)",
-      "value": "carolinexmusicbot",
+      "value": "saraamusicbot",
       "required": true
     },
     "UPSTREAM_REPO": {
