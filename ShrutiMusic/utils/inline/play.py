@@ -130,7 +130,7 @@ def stream_markup_timer(_, chat_id, played, dur):
 
                 text=f"{played} {progress_bar} {dur}",
 
-                url="https://t.me/carolinexmusicbot?startgroup=true"
+                url="https://t.me/saaramusicbot?startgroup=true"
 
             )
 
@@ -251,6 +251,7 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
 # Credit
 
 # Modified with love by Snehil Aniket @iamchalco
+
 
 
 
