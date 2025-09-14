@@ -112,19 +112,19 @@ def stream_markup_timer(_, chat_id, played, dur):
 
         [
 
-            InlineKeyboardButton(text="𝐏ʟᴀʏ", callback_data=f"ADMIN Resume|{chat_id}"),
+            InlineKeyboardButton(text="Resume", callback_data=f"ADMIN Resume|{chat_id}"),
 
-            InlineKeyboardButton(text="𝐏ᴀᴜsᴇ", callback_data=f"ADMIN Pause|{chat_id}"),
+            InlineKeyboardButton(text="Pause", callback_data=f"ADMIN Pause|{chat_id}"),
 
-            InlineKeyboardButton(text="𝐑ᴇᴘʟᴀʏ", callback_data=f"ADMIN Replay|{chat_id}"),
+            InlineKeyboardButton(text="Replay", callback_data=f"ADMIN Replay|{chat_id}"),
 
         ],
 
         [
 
-            InlineKeyboardButton(text="𝐒ᴋɪᴘ", callback_data=f"ADMIN Skip|{chat_id}"),
+            InlineKeyboardButton(text="Skip", callback_data=f"ADMIN Skip|{chat_id}"),
 
-            InlineKeyboardButton(text="𝐄ɴᴅ", callback_data=f"ADMIN Stop|{chat_id}"),
+            InlineKeyboardButton(text="End", callback_data=f"ADMIN Stop|{chat_id}"),
 
         ],
 
@@ -160,19 +160,19 @@ def stream_markup(_, chat_id):
 
         [
 
-            InlineKeyboardButton(text="𝐏ʟᴀʏ", callback_data=f"ADMIN Resume|{chat_id}"),
+            InlineKeyboardButton(text="Resume", callback_data=f"ADMIN Resume|{chat_id}"),
 
-            InlineKeyboardButton(text="𝐏ᴀᴜsᴇ", callback_data=f"ADMIN Pause|{chat_id}"),
+            InlineKeyboardButton(text="Pause", callback_data=f"ADMIN Pause|{chat_id}"),
 
-            InlineKeyboardButton(text="𝐑ᴇᴘʟᴀʏ", callback_data=f"ADMIN Replay|{chat_id}"),
+            InlineKeyboardButton(text="Replay", callback_data=f"ADMIN Replay|{chat_id}"),
 
         ],
 
         [
 
-            InlineKeyboardButton(text="𝐒ᴋɪᴘ", callback_data=f"ADMIN Skip|{chat_id}"),
+            InlineKeyboardButton(text="Skip", callback_data=f"ADMIN Skip|{chat_id}"),
 
-            InlineKeyboardButton(text="𝐄ɴᴅ", callback_data=f"ADMIN Stop|{chat_id}"),
+            InlineKeyboardButton(text="End", callback_data=f"ADMIN Stop|{chat_id}"),
 
         ],
 
@@ -259,6 +259,7 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
 # Credit
 
 # Modified with love by Snehil Aniket @iamchalco
+
 
 
 
