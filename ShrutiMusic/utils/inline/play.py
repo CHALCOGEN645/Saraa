@@ -138,9 +138,9 @@ def stream_markup_timer(_, chat_id, played, dur):
 
         [
 
-            InlineKeyboardButton(text="𝐒𝐔𝐏𝐏𝐎𝐑𝐓", url="https://t.me/nexiasupport"),
+            InlineKeyboardButton(text="ѕυρρσят", url="https://t.me/nexiasupport"),
 
-            InlineKeyboardButton(text="𝐍𝐄𝐗𝐈𝐀", url="https://t.me/NEXIAMUSICBOT"),
+            InlineKeyboardButton(text="мαιη вσт", url="https://t.me/NEXIAMUSICBOT"),
 
         ],
 
@@ -251,6 +251,7 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
 # Credit
 
 # Modified with love by Snehil Aniket @iamchalco
+
 
 
 
