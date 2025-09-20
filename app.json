@@ -44,7 +44,7 @@
     },
     "BOT_USERNAME": {
       "description": "The username of your bot (without @)",
-      "value": "saraamusicbot",
+      "value": "saaramusicbot",
       "required": true
     },
     "UPSTREAM_REPO": {
@@ -79,12 +79,12 @@
     },
     "SUPPORT_GROUP": {
       "description": "Your support group username (without @)",
-      "value": "https://t.me/nexiasupport",
+      "value": "https://t.me/+Uv6PTCz1snxlOWQ1",
       "required": false
     },
     "SUPPORT_CHANNEL": {
       "description": "Your support channel username (without @)",
-      "value": "https://t.me/nexiaupdates",
+      "value": "https://t.me/+Nn2VZWniXg9mZmM0",
       "required": false
     },
     "COOKIE_URL": {
